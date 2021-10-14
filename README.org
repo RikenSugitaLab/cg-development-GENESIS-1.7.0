@@ -1,0 +1,42 @@
+* Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations
+
+  This repository is used to share simulation data for the publication of
+  "Implementation of residue-level coarse-grained models in GENESIS for
+  large-scale molecular dynamics simulations" by Cheng Tan, Jaewoon Jung,
+  Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.
+
+  
+** Softwares
+
+   In this work we report our implementation of CG models in the GENESIS software.
+   The softwares and user guide documents are open to public:
+   - GENESIS v1.7.0: https://www.r-ccs.riken.jp/labs/cbrt/genesis-version-1-7/
+   - GENESIS-CG-tool: https://github.com/noinil/genesis_cg_tool
+  
+** Directory structure
+
+   - Simulation files
+     - Benchmark
+       - RNA polymerase
+       - DPS
+       - IDP
+       - nucleosomes
+     - Application examples
+       - sry-DNA
+       - IDR and RNA condensation
+       - HSV capsid
+       - chromatin
+   - Data to build graphs
+     - Application examples
+       - sry-DNA
+       - IDR and RNA condensation
+       - HSV capsid
+       - chromatin
+        
+        
+        
+      
+      
+        
+
+
