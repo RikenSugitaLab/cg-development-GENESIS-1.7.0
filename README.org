@@ -15,6 +15,10 @@
   
 ** Directory structure
 
+   We put all the MD simulation files in the =simulation_files= subdirectory.
+   With these files one can reproduce all the results we report in the paper.
+   To reduce the total file size of this repository, we don't include any trajectory.
+
    - Simulation files
      - Benchmark
        - RNA polymerase
@@ -33,10 +37,3 @@
        - HSV capsid
        - chromatin
         
-        
-        
-      
-      
-        
-
-
