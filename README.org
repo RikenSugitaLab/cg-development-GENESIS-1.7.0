@@ -31,9 +31,9 @@
        - HSV capsid
        - chromatin
    - Data to build graphs
-     - Application examples
-       - sry-DNA
-       - IDR and RNA condensation
-       - HSV capsid
-       - chromatin
+     - Figure4: benchmark data
+     - Figure5: sry-DNA
+     - Figure6: IDR and RNA condensation
+     - Figure7: HSV capsid
+     - Figure8: chromatin
         
