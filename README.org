@@ -1,9 +1,8 @@
 * Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations
 
-  This repository is used to share simulation data for the publication of
-  "Implementation of residue-level coarse-grained models in GENESIS for
-  large-scale molecular dynamics simulations" by Cheng Tan, Jaewoon Jung,
-  Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.
+  This repository is used to share simulation data for the publication of:
+  
+  - Tan C, Jung J, Kobayashi C, Torre DUL, Takada S, Sugita Y (2022) Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations. PLoS Comput Biol 18(4): e1009578. https://doi.org/10.1371/journal.pcbi.1009578
 
   
 ** Softwares
